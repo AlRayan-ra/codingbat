@@ -9,8 +9,8 @@ class diff21 {
     }
 
     public static void main(String[] args) {
-        System.out.println(diff21(19)); // 2
-        System.out.println(diff21(25)); // 8
+        System.out.println(diff21(19));
+        System.out.println(diff21(25));
     }
 }
 
